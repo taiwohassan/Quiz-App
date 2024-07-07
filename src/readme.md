@@ -19,7 +19,7 @@ To get started with this project, follow these steps:
 
 1. **Clone the repository:**
    ```sh
-   git clone <repository-url>
+   git clone <git remote add origin https://github.com/taiwohassan/Quiz-App.git>
    ```
 
 2. **Navigate to the project directory:**
